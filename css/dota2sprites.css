@@ -1,0 +1,538 @@
+.d2s {
+  background-repeat: no-repeat;
+  display: inline-block;
+  vertical-align: middle; }
+
+.d2s[class^='hero-'], .d2s[class*='hero-'] {
+  background-image: url("../img/minimap_hero_sheet.png");
+  width: 32px;
+  height: 32px; }
+
+.d2s.hero-axe {
+  background-position: -0px -0px; }
+.d2s.hero-anti-mage {
+  background-position: -32px -0px; }
+.d2s.hero-crystal-maiden {
+  background-position: -64px -0px; }
+.d2s.hero-ancient-apparition {
+  background-position: -96px -0px; }
+.d2s.hero-batrider {
+  background-position: -128px -0px; }
+.d2s.hero-beastmaster {
+  background-position: -160px -0px; }
+.d2s.hero-bloodseeker {
+  background-position: -192px -0px; }
+.d2s.hero-bounty-hunter {
+  background-position: -224px -0px; }
+.d2s.hero-broodmother {
+  background-position: -256px -0px; }
+.d2s.hero-chen {
+  background-position: -288px -0px; }
+.d2s.hero-dark-seer {
+  background-position: -320px -0px; }
+.d2s.hero-dazzle {
+  background-position: -352px -0px; }
+.d2s.hero-death-prophet {
+  background-position: -384px -0px; }
+.d2s.hero-doom {
+  background-position: -416px -0px; }
+.d2s.hero-dragon-knight {
+  background-position: -448px -0px; }
+.d2s.hero-alchemist {
+  background-position: -480px -0px; }
+.d2s.hero-drow-ranger {
+  background-position: -0px -32px; }
+.d2s.hero-earthshaker {
+  background-position: -32px -32px; }
+.d2s.hero-enchantress {
+  background-position: -64px -32px; }
+.d2s.hero-enigma {
+  background-position: -96px -32px; }
+.d2s.hero-faceless-void {
+  background-position: -128px -32px; }
+.d2s.hero-natures-prophet {
+  background-position: -160px -32px; }
+.d2s.hero-huskar {
+  background-position: -192px -32px; }
+.d2s.hero-juggernaut {
+  background-position: -224px -32px; }
+.d2s.hero-kunkka {
+  background-position: -256px -32px; }
+.d2s.hero-leshrac {
+  background-position: -288px -32px; }
+.d2s.hero-lich {
+  background-position: -320px -32px; }
+.d2s.hero-life-stealer {
+  background-position: -352px -32px; }
+.d2s.hero-lina {
+  background-position: -384px -32px; }
+.d2s.hero-lion {
+  background-position: -416px -32px; }
+.d2s.hero-mirana {
+  background-position: -448px -32px; }
+.d2s.hero-morphling {
+  background-position: -480px -32px; }
+.d2s.hero-necrophos {
+  background-position: -0px -64px; }
+.d2s.hero-shadow-fiend {
+  background-position: -32px -64px; }
+.d2s.hero-night-stalker {
+  background-position: -64px -64px; }
+.d2s.hero-omniknight {
+  background-position: -96px -64px; }
+.d2s.hero-puck {
+  background-position: -128px -64px; }
+.d2s.hero-pudge {
+  background-position: -160px -64px; }
+.d2s.hero-pugna {
+  background-position: -192px -64px; }
+.d2s.hero-queen-of-pain {
+  background-position: -224px -64px; }
+.d2s.hero-clockwerk {
+  background-position: -256px -64px; }
+.d2s.hero-razor {
+  background-position: -288px -64px; }
+.d2s.hero-riki {
+  background-position: -320px -64px; }
+.d2s.hero-sand-king {
+  background-position: -352px -64px; }
+.d2s.hero-shadow-shaman {
+  background-position: -384px -64px; }
+.d2s.hero-silencer {
+  background-position: -416px -64px; }
+.d2s.hero-wraith-king {
+  background-position: -448px -64px; }
+.d2s.hero-slardar {
+  background-position: -480px -64px; }
+.d2s.hero-sniper {
+  background-position: -0px -96px; }
+.d2s.hero-spectre {
+  background-position: -32px -96px; }
+.d2s.hero-spirit-breaker {
+  background-position: -64px -96px; }
+.d2s.hero-storm-spirit {
+  background-position: -96px -96px; }
+.d2s.hero-sven {
+  background-position: -128px -96px; }
+.d2s.hero-tidehunter {
+  background-position: -160px -96px; }
+.d2s.hero-tinker {
+  background-position: -192px -96px; }
+.d2s.hero-tiny {
+  background-position: -224px -96px; }
+.d2s.hero-jakiro {
+  background-position: -256px -96px; }
+.d2s.hero-ursa {
+  background-position: -288px -96px; }
+.d2s.hero-vengeful-spirit {
+  background-position: -320px -96px; }
+.d2s.hero-venomancer {
+  background-position: -352px -96px; }
+.d2s.hero-viper {
+  background-position: -384px -96px; }
+.d2s.hero-warlock {
+  background-position: -416px -96px; }
+.d2s.hero-weaver {
+  background-position: -448px -96px; }
+.d2s.hero-windranger {
+  background-position: -480px -96px; }
+.d2s.hero-witch-doctor {
+  background-position: -0px -128px; }
+.d2s.hero-zeus {
+  background-position: -32px -128px; }
+.d2s.hero-invoker {
+  background-position: -64px -128px; }
+.d2s.hero-clinkz {
+  background-position: -96px -128px; }
+.d2s.hero-outworld-devourer {
+  background-position: -128px -128px; }
+.d2s.hero-bane {
+  background-position: -160px -128px; }
+.d2s.hero-shadow-demon {
+  background-position: -192px -128px; }
+.d2s.hero-lycan {
+  background-position: -224px -128px; }
+.d2s.hero-lone-druid {
+  background-position: -256px -128px; }
+.d2s.hero-brewmaster {
+  background-position: -288px -128px; }
+.d2s.hero-brewmaster-fire {
+  background-position: -320px -128px; }
+.d2s.hero-brewmaster-storm {
+  background-position: -352px -128px; }
+.d2s.hero-brewmaster-earth {
+  background-position: -384px -128px; }
+.d2s.hero-phantom-lancer {
+  background-position: -416px -128px; }
+.d2s.hero-chaos-knight {
+  background-position: -448px -128px; }
+.d2s.hero-phantom-assassin {
+  background-position: -480px -128px; }
+.d2s.hero-treant-protector {
+  background-position: -0px -160px; }
+.d2s.hero-luna {
+  background-position: -32px -160px; }
+.d2s.hero-ogre-magi {
+  background-position: -64px -160px; }
+.d2s.hero-gyrocopter {
+  background-position: -96px -160px; }
+.d2s.hero-rubick {
+  background-position: -128px -160px; }
+.d2s.hero-wisp {
+  background-position: -160px -160px; }
+.d2s.hero-disruptor {
+  background-position: -192px -160px; }
+.d2s.hero-undying {
+  background-position: -224px -160px; }
+.d2s.hero-naga-siren {
+  background-position: -256px -160px; }
+.d2s.hero-templar-assassin {
+  background-position: -288px -160px; }
+.d2s.hero-nyx-assassin {
+  background-position: -320px -160px; }
+.d2s.hero-keeper-of-the-light {
+  background-position: -352px -160px; }
+.d2s.hero-visage {
+  background-position: -384px -160px; }
+.d2s.hero-magnus {
+  background-position: -416px -160px; }
+.d2s.hero-meepo {
+  background-position: -448px -160px; }
+.d2s.hero-centaur-warrunner {
+  background-position: -480px -160px; }
+.d2s.hero-slark {
+  background-position: -0px -192px; }
+.d2s.hero-medusa {
+  background-position: -32px -192px; }
+.d2s.hero-timbersaw {
+  background-position: -64px -192px; }
+.d2s.hero-troll-warlord {
+  background-position: -96px -192px; }
+.d2s.hero-tusk {
+  background-position: -128px -192px; }
+.d2s.hero-bristleback {
+  background-position: -160px -192px; }
+.d2s.hero-skywrath-mage {
+  background-position: -192px -192px; }
+.d2s.hero-elder-titan {
+  background-position: -224px -192px; }
+.d2s.hero-abaddon {
+  background-position: -256px -192px; }
+.d2s.hero-ember-spirit {
+  background-position: -288px -192px; }
+.d2s.hero-legion-commander {
+  background-position: -320px -192px; }
+.d2s.hero-earth-spirit {
+  background-position: -352px -192px; }
+.d2s.hero-terrorblade {
+  background-position: -384px -192px; }
+.d2s.hero-phoenix {
+  background-position: -416px -192px; }
+.d2s.hero-techies {
+  background-position: -448px -192px; }
+.d2s.hero-oracle {
+  background-position: -64px -224px; }
+.d2s.hero-winter-wyvern {
+  background-position: -480px -192px; }
+.d2s.hero-lina-alt1 {
+  background-position: -480px -224px; }
+.d2s.hero-legion-commander-alt1 {
+  background-position: -448px -224px; }
+.d2s.hero-terrorblade-alt1 {
+  background-position: -416px -224px; }
+.d2s.hero-techies-alt1 {
+  background-position: -384px -224px; }
+.d2s.hero-nevermore-alt1 {
+  background-position: -352px -224px; }
+.d2s.hero-phantom-assassin-alt1 {
+  background-position: -320px -224px; }
+.d2s.hero-crystal-maiden-alt1 {
+  background-position: -288px -224px; }
+
+.d2s[class^='item-'], .d2s[class*='item-'] {
+  background-image: url("../img/item-sheet.png");
+  width: 40px;
+  height: 30px; }
+
+.d2s.item-ward-observer {
+  background-position: -0px -0px; }
+.d2s.item-ward-sentry {
+  background-position: -0px -30px; }
+.d2s.item-wraith-band {
+  background-position: -40px -0px; }
+.d2s.item-yasha {
+  background-position: -40px -30px; }
+.d2s.item-abyssal-blade {
+  background-position: -0px -60px; }
+.d2s.item-drums-of-endurance {
+  background-position: -40px -60px; }
+.d2s.item-arcane-boots {
+  background-position: -0px -90px; }
+.d2s.item-armlet-of-mordiggian {
+  background-position: -40px -90px; }
+.d2s.item-assault-cuirass {
+  background-position: -80px -0px; }
+.d2s.item-basher {
+  background-position: -80px -30px; }
+.d2s.item-belt-of-strength {
+  background-position: -80px -60px; }
+.d2s.item-battlefury {
+  background-position: -80px -90px; }
+.d2s.item-black-king-bar {
+  background-position: -0px -120px; }
+.d2s.item-blade-mail {
+  background-position: -40px -120px; }
+.d2s.item-blade-of-alacrity {
+  background-position: -80px -120px; }
+.d2s.item-blades-of-attack {
+  background-position: -120px -0px; }
+.d2s.item-blink-dagger {
+  background-position: -120px -30px; }
+.d2s.item-bloodstone {
+  background-position: -120px -60px; }
+.d2s.item-boots-of-speed {
+  background-position: -120px -90px; }
+.d2s.item-band-of-elvenskin {
+  background-position: -120px -120px; }
+.d2s.item-bottle {
+  background-position: -0px -150px; }
+.d2s.item-bracer {
+  background-position: -40px -150px; }
+.d2s.item-iron-branch {
+  background-position: -80px -150px; }
+.d2s.item-broadsword {
+  background-position: -120px -150px; }
+.d2s.item-buckler {
+  background-position: -160px -0px; }
+.d2s.item-butterfly {
+  background-position: -160px -30px; }
+.d2s.item-chainmail {
+  background-position: -160px -60px; }
+.d2s.item-circlet {
+  background-position: -160px -90px; }
+.d2s.item-clarity {
+  background-position: -160px -120px; }
+.d2s.item-claymore {
+  background-position: -160px -150px; }
+.d2s.item-cloak {
+  background-position: -0px -180px; }
+.d2s.item-courier {
+  background-position: -40px -180px; }
+.d2s.item-crimson-guard {
+  background-position: -80px -180px; }
+.d2s.item-euls-scepter {
+  background-position: -120px -180px; }
+.d2s.item-dagon {
+  background-position: -160px -180px; }
+.d2s.item-demon-edge {
+  background-position: -0px -210px; }
+.d2s.item-desolator {
+  background-position: -40px -210px; }
+.d2s.item-diffusal-blade {
+  background-position: -80px -210px; }
+.d2s.item-dust {
+  background-position: -120px -210px; }
+.d2s.item-eaglesong {
+  background-position: -160px -210px; }
+.d2s.item-enchanted-mango {
+  background-position: -360px -360px;
+  height: 29px; }
+.d2s.item-energy-booster {
+  background-position: -200px -0px; }
+.d2s.item-ethereal-blade {
+  background-position: -200px -30px; }
+.d2s.item-salve {
+  background-position: -200px -60px; }
+.d2s.item-flying-courier {
+  background-position: -200px -90px; }
+.d2s.item-force-staff {
+  background-position: -200px -120px; }
+.d2s.item-gauntlet-of-strength {
+  background-position: -200px -150px; }
+.d2s.item-gem-of-true-sight {
+  background-position: -200px -180px; }
+.d2s.item-ghost-scepter {
+  background-position: -200px -210px; }
+.d2s.item-glimmer-cape {
+  background-position: -240px -390px;
+  height: 28px; }
+.d2s.item-gloves-of-haste {
+  background-position: -0px -240px; }
+.d2s.item-daedalus {
+  background-position: -40px -240px; }
+.d2s.item-guardian-greaves {
+  background-position: -0px -390px;
+  height: 29px; }
+.d2s.item-hand-of-midas {
+  background-position: -80px -240px; }
+.d2s.item-headdress {
+  background-position: -120px -240px; }
+.d2s.item-heart-of-tarrasque {
+  background-position: -160px -240px; }
+.d2s.item-heavens-halberd {
+  background-position: -200px -240px; }
+.d2s.item-helm-of-iron-will {
+  background-position: -240px -0px; }
+.d2s.item-helm-of-the-dominator {
+  background-position: -240px -30px; }
+.d2s.item-hood-of-defiance {
+  background-position: -240px -60px; }
+.d2s.item-hyperstone {
+  background-position: -240px -90px; }
+.d2s.item-shadow-blade {
+  background-position: -240px -120px; }
+.d2s.item-javelin {
+  background-position: -240px -150px; }
+.d2s.item-crystalys {
+  background-position: -240px -180px; }
+.d2s.item-morbid-mask {
+  background-position: -240px -210px; }
+.d2s.item-lotus-orb {
+  background-position: -40px -390px;
+  height: 29px; }
+.d2s.item-maelstrom {
+  background-position: -240px -240px; }
+.d2s.item-magic-stick {
+  background-position: -0px -270px; }
+.d2s.item-magic-wand {
+  background-position: -40px -270px; }
+.d2s.item-manta-style {
+  background-position: -80px -270px; }
+.d2s.item-mantle-of-intelligence {
+  background-position: -120px -270px; }
+.d2s.item-mask-of-madness {
+  background-position: -160px -270px; }
+.d2s.item-medallion-of-courage {
+  background-position: -200px -270px; }
+.d2s.item-mekansm {
+  background-position: -240px -270px; }
+.d2s.item-mithril-hammer {
+  background-position: -280px -0px; }
+.d2s.item-mjollnir {
+  background-position: -280px -30px; }
+.d2s.item-monkey-king-bar {
+  background-position: -280px -60px; }
+.d2s.item-moon-shard {
+  background-position: -80px -390px;
+  height: 29px; }
+.d2s.item-mystic-staff {
+  background-position: -280px -90px; }
+.d2s.item-necronomicon {
+  background-position: -280px -120px; }
+.d2s.item-null-talisman {
+  background-position: -280px -150px; }
+.d2s.item-oblivion-staff {
+  background-position: -280px -180px; }
+.d2s.item-octarine-core {
+  background-position: -120px -390px;
+  height: 29px; }
+.d2s.item-ogre-club {
+  background-position: -280px -210px; }
+.d2s.item-orb-of-venom {
+  background-position: -280px -240px; }
+.d2s.item-orchid-malevolence {
+  background-position: -280px -270px; }
+.d2s.item-perseverance {
+  background-position: -0px -300px; }
+.d2s.item-phase-boots {
+  background-position: -40px -300px; }
+.d2s.item-pipe-of-insight {
+  background-position: -80px -300px; }
+.d2s.item-platemail {
+  background-position: -120px -300px; }
+.d2s.item-point-booster {
+  background-position: -160px -300px; }
+.d2s.item-poor-mans-shield {
+  background-position: -200px -300px; }
+.d2s.item-power-treads {
+  background-position: -240px -300px; }
+.d2s.item-quarterstaff {
+  background-position: -280px -300px; }
+.d2s.item-quelling-blade {
+  background-position: -0px -330px; }
+.d2s.item-radiance {
+  background-position: -40px -330px; }
+.d2s.item-divine-rapier {
+  background-position: -80px -330px; }
+.d2s.item-reaver {
+  background-position: -120px -330px; }
+.d2s.item-refresher {
+  background-position: -160px -330px; }
+.d2s.item-sacred-relic {
+  background-position: -200px -330px; }
+.d2s.item-ring-of-aquila {
+  background-position: -240px -330px; }
+.d2s.item-ring-of-basilius {
+  background-position: -280px -330px; }
+.d2s.item-ring-of-health {
+  background-position: -320px -0px; }
+.d2s.item-ring-of-protection {
+  background-position: -320px -30px; }
+.d2s.item-ring-of-regen {
+  background-position: -320px -60px; }
+.d2s.item-robe-of-the-magi {
+  background-position: -320px -90px; }
+.d2s.item-rod-of-atos {
+  background-position: -320px -120px; }
+.d2s.item-sange-and-yasha {
+  background-position: -320px -150px; }
+.d2s.item-sange {
+  background-position: -320px -180px; }
+.d2s.item-satanic {
+  background-position: -320px -210px; }
+.d2s.item-shadow-amulet {
+  background-position: -320px -240px; }
+.d2s.item-scythe-of-vyse {
+  background-position: -320px -270px; }
+.d2s.item-shivas-guard {
+  background-position: -320px -300px; }
+.d2s.item-silver-edge {
+  background-position: -160px -390px;
+  height: 29px; }
+.d2s.item-skadi {
+  background-position: -320px -330px; }
+.d2s.item-slippers-of-agility {
+  background-position: -0px -360px; }
+.d2s.item-smoke-of-deceit {
+  background-position: -40px -360px; }
+.d2s.item-sage-mask {
+  background-position: -80px -360px; }
+.d2s.item-solar-crest {
+  background-position: -200px -390px;
+  height: 29px; }
+.d2s.item-soul-booster {
+  background-position: -120px -360px; }
+.d2s.item-soul-ring {
+  background-position: -160px -360px; }
+.d2s.item-linkens-sphere {
+  background-position: -200px -360px; }
+.d2s.item-staff-of-wizardry {
+  background-position: -240px -360px; }
+.d2s.item-stout-shield {
+  background-position: -280px -360px; }
+.d2s.item-talisman-of-evasion {
+  background-position: -320px -360px; }
+.d2s.item-tango {
+  background-position: -360px -0px; }
+.d2s.item-town-portal-scroll {
+  background-position: -360px -30px; }
+.d2s.item-tranquil-boots {
+  background-position: -360px -60px; }
+.d2s.item-boots-of-travel {
+  background-position: -360px -90px; }
+.d2s.item-ultimate-orb {
+  background-position: -360px -120px; }
+.d2s.item-ultimate-scepter {
+  background-position: -360px -150px; }
+.d2s.item-urn-of-shadows {
+  background-position: -360px -180px; }
+.d2s.item-vanguard {
+  background-position: -360px -210px; }
+.d2s.item-veil-of-discord {
+  background-position: -360px -240px; }
+.d2s.item-vitality-booster {
+  background-position: -360px -270px; }
+.d2s.item-vladmirs-offering {
+  background-position: -360px -300px; }
+.d2s.item-void-stone {
+  background-position: -360px -330px; }
