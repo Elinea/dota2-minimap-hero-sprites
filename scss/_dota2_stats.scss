@@ -1,0 +1,16 @@
+.d2s[class^='stat-'], .d2s[class*='stat-'] {
+    background-image: url('../img/stat_sheet.png');
+    width: 32px;
+    height: 32px;
+}
+.d2s {
+    &.stat-strength {
+        background-position: 0px 0px;
+    }
+    &.stat-agility {
+        background-position: -32px -0px;
+    }
+    &.stat-intelligence {
+        background-position: -64px 0px;
+    }
+}
