@@ -4,7 +4,7 @@
   vertical-align: middle; }
 
 .d2s[class^='mini-'], .d2s[class*='mini-'] {
-  background-image: url("../img/minimap_mini_sheet.png");
+  background-image: url("../img/minimap_hero_sheet.png");
   width: 32px;
   height: 32px; }
 
@@ -250,7 +250,7 @@
   background-position: -288px -224px; }
 
 .d2s[class^='item-'], .d2s[class*='item-'] {
-  background-image: url("../img/item-sheet.png");
+  background-image: url("../img/item_sheet.png");
   width: 40px;
   height: 30px; }
 
@@ -988,3 +988,17 @@
   background-position: -308px -250px; }
 .d2s.small.hero-abaddon {
   background-position: -308px -275px; }
+
+.d2s[class^='stat-'], .d2s[class*='stat-'] {
+  background-image: url("../img/stat_sheet.png");
+  width: 32px;
+  height: 32px; }
+
+.d2s.stat-strength {
+  background-position: 0px 0px; }
+.d2s.stat-agility {
+  background-position: -32px -0px; }
+.d2s.stat-intelligence {
+  background-position: -64px 0px; }
+
+/*# sourceMappingURL=dota2sprites.css.map */
